@@ -28,20 +28,20 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "p4_-E0rKpe-g",
-        "outputId": "ea10cb16-0bac-4605-b965-a4b2b2517dc7"
+        "outputId": "c75c275a-9382-4a5f-81e7-5a3fdfc811e2"
       },
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount(\"/content/drive\", force_remount=True).\n"
+            "Mounted at /content/drive\n"
           ]
         }
       ],
@@ -63,9 +63,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "p5Sr4LRht2mv",
-        "outputId": "c62df0a9-883f-4558-ec8e-7b3d8c829ae4"
+        "outputId": "165fb461-6553-47ca-f2ec-5e0e672c3285"
       },
-      "execution_count": null,
+      "execution_count": 2,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -75,7 +75,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 25
+          "execution_count": 2
         }
       ]
     },
@@ -95,9 +95,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "u3eQ4n4juS0r",
-        "outputId": "578be000-65e5-443a-807b-7dd44674fe55"
+        "outputId": "33dcb2b5-9c0e-4734-9dd6-e21aa940bcf1"
       },
-      "execution_count": null,
+      "execution_count": 3,
       "outputs": [
         {
           "output_type": "stream",
@@ -184,9 +184,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "bRI93__QusdG",
-        "outputId": "04dddcbc-7001-47a2-dc75-6f6d80f4a4cb"
+        "outputId": "30fd7a4d-466a-4337-a12d-d571d84fc593"
       },
-      "execution_count": null,
+      "execution_count": 4,
       "outputs": [
         {
           "output_type": "stream",
@@ -318,15 +318,15 @@
           "height": 1000
         },
         "id": "9H1VutkOvfFb",
-        "outputId": "dfebae8c-9cfa-4b29-b6b9-41aef574002d"
+        "outputId": "4d3c713c-f0c3-49e1-8642-dfcd41122902"
       },
-      "execution_count": null,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stderr",
           "text": [
-            "/tmp/ipython-input-3186339618.py:45: FutureWarning: \n",
+            "/tmp/ipython-input-2241601200.py:45: FutureWarning: \n",
             "\n",
             "Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.\n",
             "\n",
